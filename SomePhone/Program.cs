@@ -20,7 +20,7 @@ namespace SomePhone
 
             Phone phone4 = new Phone();
             phone4.ReceiveCall("Emma", 6855286);
-            phone4.SendMessage(43241231, 34297976, 68468469);
+            phone4.SendMessage(43241231, 34290076, 68468469);
 
         }
     }
