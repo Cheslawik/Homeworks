@@ -34,14 +34,6 @@ namespace SomePhone.MyClasses
             this.weight = weight;
         }
 
-
-
-        //public void RandomNumber()
-        //{
-        //    Random rand = new Random();
-        //    number = rand.Next(1000000, 9999999);
-        //}
-
         public void ReceiveCall(string callerName)
         {
             Console.WriteLine($"\nIncoming call from {callerName}");
@@ -67,3 +59,4 @@ namespace SomePhone.MyClasses
         }
     }
 }
+
