@@ -10,7 +10,7 @@ namespace StudentProfessorTest.MyClasses
     {
         public void Greet()
         {
-            Console.WriteLine("Hello!!!");
+            Console.WriteLine("Hello!");
         }
 
         private int Age;
